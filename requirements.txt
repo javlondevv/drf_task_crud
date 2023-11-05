@@ -1,0 +1,5 @@
+django-filter==23.3
+drf-spectacular==0.26.5
+drf-spectacular-sidecar==2023.10.1
+markdown==3.5.1
+pip-chill==1.0.3
